@@ -1,0 +1,1 @@
+snowsql -a OIUJDGG-HK92990 -u BRENODOCARMO -d POC -w COMPUTE_WH -s DEV -f bronze_customers.sql

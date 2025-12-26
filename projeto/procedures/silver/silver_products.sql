@@ -29,8 +29,3 @@ $$;
 
 CALL load_silver_products();
 
-
-SELECT * FROM SILVER_PRODUCTS;
-
-
-TRUNCATE TABLE SILVER_PRODUCTS;

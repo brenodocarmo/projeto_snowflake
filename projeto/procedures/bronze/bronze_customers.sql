@@ -24,7 +24,5 @@ $$;
 CALL load_bronze_customers();
 
 
-SELECT * FROM BRONZE_CUSTOMERS;
 
 
-TRUNCATE TABLE BRONZE_CUSTOMERS;

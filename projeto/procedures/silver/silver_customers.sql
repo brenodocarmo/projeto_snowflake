@@ -25,7 +25,3 @@ END;
 $$;
 
 CALL load_silver_customers();
-
-SELECT * FROM SILVER_CUSTOMERS;
-
-TRUNCATE TABLE SILVER_CUSTOMERS;

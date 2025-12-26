@@ -22,9 +22,3 @@ $$;
 
 
 CALL load_bronze_orders();
-
-
-SELECT * FROM BRONZE_ORDERS;
-
-
-TRUNCATE TABLE BRONZE_ORDERS;

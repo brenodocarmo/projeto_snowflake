@@ -1,3 +1,4 @@
+-- Criação da tabela gold_dim_calendar
 
 CREATE TABLE IF NOT EXISTS gold_dim_calendar (
     date_sk BIGINT,
@@ -10,4 +11,5 @@ CREATE TABLE IF NOT EXISTS gold_dim_calendar (
     day_name VARCHAR(10),
     week_number NUMBER(2,0),
     is_weekend BOOLEAN
+
 );

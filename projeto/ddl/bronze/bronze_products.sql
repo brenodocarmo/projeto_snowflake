@@ -3,4 +3,5 @@ CREATE TABLE IF NOT EXISTS BRONZE_PRODUCTS(
    filename STRING,
    created_at TIMESTAMP
 
+
 );

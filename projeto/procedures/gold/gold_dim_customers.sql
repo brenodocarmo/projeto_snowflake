@@ -76,5 +76,3 @@ END;
 $$;
 
 CALL load_gold_customers();
-
-SELECT * FROM GOLD_DIM_CUSTOMERS;
